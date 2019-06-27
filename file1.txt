@@ -3,11 +3,11 @@ This is my first git.........welocme to GIT sigham..!!!!
 class HelloGit{
 
 
-   void myBigMethod(){
+  void myBigMethod(){
 sysout("helooo");
 
 }
-    public static void main(String str[]){
+    public statics void main(String args[]){
               System.out.println("hello Git....!!!");
 
            }
