@@ -9,6 +9,7 @@ sysout("helooo");
 }
     public statics void main(String args[]){
               System.out.println("hello Git....!!!");
+         obj.Hellogit("hello");
 
            }
 }
