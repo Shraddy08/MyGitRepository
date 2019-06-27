@@ -1,6 +1,12 @@
 This is my first git.........welocme to GIT sigham..!!!!
 
 class HelloGit{
+
+
+   void myBigMethod(){
+sysout("helooo");
+
+}
     public static void main(String str[]){
               System.out.println("hello Git....!!!");
 
